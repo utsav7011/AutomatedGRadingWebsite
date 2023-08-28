@@ -1,6 +1,7 @@
-create the virtual environment 
+create the virtual environment for server in flask.
 
-start the venv
+start the venv 
+.\venv\Scripts\activate
 
 Install all the dependencies of flask
 
